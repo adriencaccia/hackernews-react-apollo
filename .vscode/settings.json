@@ -5,4 +5,15 @@
     ],
     "eslint.autoFixOnSave": true,
     "css.validate": false,
+    "sqltools.connections": [
+        {
+            "database": "prisma",
+            "dialect": "MySQL",
+            "name": "prisma",
+            "password": "prisma",
+            "port": 3306,
+            "server": "localhost",
+            "username": "root"
+        }
+    ],
 }
