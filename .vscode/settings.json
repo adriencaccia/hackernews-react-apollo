@@ -4,4 +4,5 @@
         "javascriptreact"
     ],
     "eslint.autoFixOnSave": true,
+    "css.validate": false,
 }
